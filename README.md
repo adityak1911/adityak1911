@@ -1,69 +1,129 @@
-Hi, I'm Aditya Kumar 👋
+<div align="center">
 
-Physics | Software Engineering | Embedded Systems | Cloud & DevOps
+<h1>Hi 👋, I'm Aditya Kumar</h1>
 
-I'm an Integrated M.Sc. Physics student at SVNIT Surat with a strong interest in building software and hardware systems that solve real-world problems.
+<h3>Physics Student • Software Engineer • Embedded Systems Builder</h3>
 
-I work across the stack — from backend systems and cloud infrastructure to embedded electronics, communication systems, and scientific computing.
+<p> <a href="https://linkedin.com/in/adityak1911"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/adityak1911"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> </a> <a href="https://stackoverflow.com/users/adityak1911"> <img src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/> </a> </p>
 
-What I do
-💻 Software Engineering — Backend, full-stack applications, APIs and scalable systems
-☁️ Cloud & DevOps — Linux, VPS infrastructure, CI/CD, monitoring and deployment
-🔬 Scientific Computing & Research — Python, numerical simulations and data analysis
-⚡ Embedded Systems — ESP32, STM32, sensors and communication systems
-📡 Communication Systems — RF, optical/laser communication and LoRa
-🚀 Rocketry & Aerospace — Rocket design, telemetry and CanSat systems
-Experience
+<p> <img src="https://komarev.com/ghpvc/?username=adityak1911&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/> </p>
 
-Chief Technical Officer — Nearo Digital Pvt. Ltd.
-Leading technical architecture, infrastructure and development of high-performance web systems.
+</div>
 
-PHP Developer — Metamonix Pvt. Ltd.
-Developed cloud infrastructure platforms, administrative systems, automated billing and identity-verification workflows.
+<h2>👨‍💻 About Me</h2>
 
-Tech Stack
-Languages
+<p> I'm an Integrated M.Sc. Physics student at <b>SVNIT Surat</b> with a strong interest in software engineering, embedded systems, communication technologies and scientific computing. </p>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> </p>
+<p> I enjoy building systems that bring together <b>physics, software and engineering</b> — from backend infrastructure and cloud platforms to embedded telemetry and optical communication systems. </p>
 
-Backend & Web
+<p>My interests include:</p>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" alt="CodeIgniter"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/> </p>
+<ul> <li>💻 Backend & Full-Stack Development</li> <li>☁️ Cloud Infrastructure & DevOps</li> <li>⚡ Embedded Systems & IoT</li> <li>📡 Wireless & Optical Communication</li> <li>🔬 Scientific Computing & Research</li> <li>🚀 Rocketry & Aerospace Systems</li> </ul>
 
-Databases & Infrastructure
+<h2>🛠️ What I Work With</h2>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/> </p>
+<table> <tr> <td width="50%" valign="top">
 
-Cloud & Tools
+<h3>💻 Software Engineering</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/> </p>
+<ul> <li>Backend & Full-Stack Applications</li> <li>REST APIs & Web Services</li> <li>System Architecture</li> <li>Automation & Developer Tools</li> <li>Performance Optimization</li> </ul>
 
-Embedded & Scientific Computing
+</td>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> </p>
+<td width="50%" valign="top">
 
-Selected Projects
+<h3>☁️ Cloud & DevOps</h3>
 
-🚀 Rocketry & CanSat Systems
-Working on telemetry, embedded sensing, communication and flight systems using ESP32, LoRa, IMUs and environmental sensors.
+<ul> <li>Linux & VPS Infrastructure</li> <li>Cloud Deployment</li> <li>CI/CD Pipelines</li> <li>Monitoring & System Administration</li> <li>Scalable Infrastructure</li> </ul>
 
-📡 Optical Wireless Communication
-Built an ESP32-based laser communication system using OOK modulation, achieving high-speed data transmission over a 10 m line-of-sight link.
+</td> </tr>
 
-🔬 VLC / LiFi Research
-Working on analytical and numerical modelling of visible-light communication systems, including secrecy capacity and secrecy outage probability.
+<tr> <td width="50%" valign="top">
 
-🛠️ MATLAB Figure Exporter
-A Python package for exporting Matplotlib figures to MATLAB .fig format using the MATLAB Python Engine, with fallback image export.
+<h3>⚡ Embedded Systems</h3>
 
-GitHub Statistics
+<ul> <li>ESP32 & STM32</li> <li>Sensor Integration</li> <li>Telemetry Systems</li> <li>LoRa Communication</li> <li>Embedded Prototyping</li> </ul>
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityak1911&show_icons=true&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityak1911&layout=compact&hide_border=true" /> </p>
+</td>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityak1911&hide_border=true" /> </p>
+<td width="50%" valign="top">
 
-Connect
+<h3>🔬 Physics & Research</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/adityak1911"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/> </a> &nbsp; <a href="https://twitter.com/adityak1911"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="Twitter"/> </a> &nbsp; <a href="https://stackoverflow.com/users/adityak1911"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30" height="30" alt="Stack Overflow"/> </a> </p>
+<ul> <li>Numerical Simulation</li> <li>Scientific Computing</li> <li>Communication Systems</li> <li>VLC / LiFi</li> <li>Data Analysis & Mathematical Modelling</li> </ul>
 
-<p align="center"> <i>Building at the intersection of physics, software and engineering.</i> </p>
+</td> </tr> </table>
+
+<h2>💼 Experience</h2>
+
+<table> <tr> <td width="30%" valign="top">
+
+<b>Chief Technical Officer</b><br/>
+Nearo Digital Pvt. Ltd.<br/>
+<i>Apr 2023 – Present</i>
+
+</td>
+
+<td valign="top">
+
+Leading technical architecture, infrastructure and development of high-performance web systems. Working across backend engineering, system optimization, cloud infrastructure, monitoring and deployment.
+
+</td> </tr>
+
+<tr> <td width="30%" valign="top">
+
+<b>PHP Developer</b><br/>
+Metamonix Pvt. Ltd.<br/>
+<i>Dec 2022 – Apr 2024</i>
+
+</td>
+
+<td valign="top">
+
+Developed cloud infrastructure platforms and enterprise administration systems, including automated billing, identity verification and VPS provisioning and management.
+
+</td> </tr> </table>
+<h2>🚀 Selected Projects</h2>
+
+<ul>
+  <li>🚀 <b>Rocketry & CanSat Systems</b> — Embedded flight systems, telemetry and sensing using ESP32, LoRa, IMUs and environmental sensors.</li>
+  <li>📡 <b>Optical Wireless Communication</b> — ESP32-based OOK laser communication system with a 10 m line-of-sight link and up to 1 kbps transmission.</li>
+  <li>🔬 <b>VLC / LiFi Research</b> — Analytical and numerical modelling of visible-light communication, secrecy capacity and secrecy outage probability.</li>
+  <li>🛰️ <b>Telemetry & Embedded Systems</b> — Sensor acquisition and long-range telemetry systems for aerospace applications.</li>
+  <li>🛠️ <b>MATLAB Figure Exporter</b> — Python package for exporting Matplotlib figures to MATLAB <code>.fig</code> format with image fallback.</li>
+</ul>
+
+<h2>💻 Languages</h2>
+<p><img src="https://skillicons.dev/icons?i=python,c,cpp,php,js" alt="Programming Languages"/></p>
+
+<h2>🌐 Web & Backend</h2>
+<p><img src="https://skillicons.dev/icons?i=laravel,codeigniter,nodejs,html,css,bootstrap,jquery" alt="Web and Backend Technologies"/></p>
+
+<h2>🗄️ Databases & Infrastructure</h2>
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch,linux,git" alt="Databases and Infrastructure"/></p>
+
+<h2>☁️ Cloud & Tools</h2>
+<p><img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase,postman" alt="Cloud and Development Tools"/></p>
+
+<h2>⚡ Embedded & Scientific Computing</h2>
+<p><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow,pytorch" alt="Embedded and Scientific Computing"/></p>
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityak1911&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+
+</div>
+
+
+<h2>🤝 Connect With Me</h2>
+
+<p align="left"> <a href="https://linkedin.com/in/adityak1911"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/adityak1911"> <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> </a> <a href="https://stackoverflow.com/users/adityak1911"> <img src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/> </a> </p>
+
+<div align="center">
+
+<h3>⚡ Building at the intersection of Physics, Software & Engineering.</h3>
+
+</div>
